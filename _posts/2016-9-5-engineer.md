@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading projects and GTD
+title: What makes a good Engineer?
 ---
 
 An [insightful interview with Linus Torvalds](https://www.youtube.com/watch?v=o8NPllzkFhE) reveals that good engineers:
