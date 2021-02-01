@@ -7,7 +7,7 @@ A consultant is someone who offers professional advice and service based on his 
 
 **Client relationship**
 
-Client trust is key to being a good consultant. It is assumed that a consultant is an expert is something, but an expert who cannot be relied on cannot be of much help. As important as technical expertise is, from the client’s perspective, often a consultant with whom trust has been established is preferred over a stranger; in some cases even when the consultant is required to pick up a new skill or expertise.
+Client trust is key to being a good consultant. It is assumed that a consultant is an expert in something, but an expert who cannot be relied on cannot be of much help. As important as technical expertise is, from the client’s perspective, often a consultant with whom trust has been established is preferred over a stranger; in some cases even when the consultant is required to pick up a new skill or expertise.
 
 **Time management**
 
@@ -34,6 +34,6 @@ Not everyone is cut out for consulting. Know your strengths and weaknesses well 
 Some questions to ask in gauging whether you have consulting blood in you:
 
 * Do I try to understand the business goals of a client on any given project? Am I a big picture person even when working on the nitty-gritty details?
-* Do I see technology as an end, rather than means to help clients succeed in their business?
+* Do I see technology as an end rather than means to help clients succeed in their business?
 * Do I have a curious mind in general? Do I care to know the new IT trends in the market?
 * Do I think critically when working on solution implementation, or execute without constructive questioning?
